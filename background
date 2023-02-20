@@ -18,3 +18,25 @@
 </main>
 </body>
 </html>
+css
+p {
+color: blue;
+font-size: 40px;
+}
+
+
+/*class*/
+.parrafo {
+color: red;
+}
+/*ID*/
+#texto {
+ color: yellow;
+ font-size: 24px;
+}
+
+img { 
+display: block;
+margin: 0%;
+
+}
